@@ -1,8 +1,7 @@
-# Pricing_Pyschology_Analysis_Dashboard
+# Pricing_Pyschology_Analysis_Dashboard (Power BI)
 Power BI dashboard analyzing psychological and rounded pricing impact on conversion and revenue.
-# Pricing Psychology Dashboard (Power BI)
 
-This project explores how **psychological vs. rounded pricing strategies** influence customer conversion rates across three business categories using simple, mock data. Built entirely in **Power BI**, the dashboard provides a clear visual analysis of pricing impact.
+# This project explores how **psychological vs. rounded pricing strategies** influence customer conversion rates across three business categories using simple, mock data. Built entirely in **Power BI**, the dashboard provides a clear visual analysis of pricing impact.
 
 ## Objective
 
